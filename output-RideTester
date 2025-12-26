@@ -1,0 +1,22 @@
+1============
+Distance: 7 km
+Distance: 15 km
+ID: 1-15
+Service Charge: 50 TK
+Surge: true
+Discount: false
+Distance: 12 km
+ID: 2-12
+Service Charge: 50 TK
+Surge: false
+Discount: false
+2============
+Regular Ride: 70.0 TK
+Premium Ride 1-15: 240.0 TK
+Premium Ride 2-12: 130.0 TK
+3============
+Distance: 12 km
+ID: 2-12
+Service Charge: 50 TK
+Surge: false
+Discount: true
