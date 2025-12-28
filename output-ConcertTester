@@ -1,0 +1,35 @@
+Venue: ABC Conference Center
+Showtime: 7:00 PM
+Artist: 
+Tickets sold in this concert: 0
+--------1--------
+Venue: ABC Conference Center
+Showtime: 7:00 PM
+Artist: 
+-Tahsan Khan
+-Habib Wahid
+Tickets sold in this concert: 0
+--------2--------
+--------3--------
+Sarah bought 3 ticket(s) in Zone A
+Total price: 1500
+Alex bought 1 ticket(s) in Zone B
+Total price: 1000
+--------4--------
+Venue: ABC Conference Center
+Showtime: 7:00 PM
+Artist: 
+-Tahsan Khan
+-Habib Wahid
+Tickets sold in this concert: 4
+--------5--------
+Emily bought 1 ticket(s) in Zone VIP
+Total price: 2000
+--------6--------
+Venue: Army Stadium
+Showtime: 10:00 PM
+Artist: 
+-Atif Aslam
+Tickets sold in this concert: 1
+--------7--------
+Total tickets sold (all venues): 5
