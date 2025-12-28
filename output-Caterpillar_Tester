@@ -1,0 +1,23 @@
+Food: Leaf
+Age: 5
+Energy: 0.0
+--------------1-------------
+Caterpillar ate 1 unit of food
+Caterpillar ate 3 units of food
+Food: Leaf
+Age: 5
+Energy: 4.0
+--------------2-------------
+--------------3-------------
+Caterpillar transforms into Butterfly
+Caterpillar transforms into Moth
+--------------4-------------
+Butterfly lost energy while flying and absorbed nectar
+Moth lost energy due to nocturnal activity
+--------------5-------------
+Food: Flower
+Age: 2
+Energy: 5.0 joules
+Food: Cotton
+Age: 4
+Energy: 10.0 joules
